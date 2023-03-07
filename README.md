@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mkm0702/product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://product-preview-card-mkm0702.netlify.app/)
 
 ## My process
 
